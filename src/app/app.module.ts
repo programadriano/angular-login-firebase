@@ -16,12 +16,12 @@ import { AngularFireAuth } from "angularfire2/auth";
 
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyDK-LQ6ZLCUnSvVHNSjDvdAbKDvbuIbUOQ",
-  authDomain: "angular-auth-d6e08.firebaseapp.com",
-  databaseURL: "https://angular-auth-d6e08.firebaseio.com",
-  projectId: "angular-auth-d6e08",
-  storageBucket: "angular-auth-d6e08.appspot.com",
-  messagingSenderId: "630368996164"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 
 
